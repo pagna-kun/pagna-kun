@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Contact:
+- Personal Mail: sopagnaheang@gmail.com
+- Workplace Mail: sopagna.heang@cadt.edu.kh
 <!--
 **pagna-kun/pagna-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
