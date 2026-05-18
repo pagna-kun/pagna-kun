@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Contact:
+## Contact:
 - Personal Mail: sopagnaheang@gmail.com
 - Workplace Mail: sopagna.heang@cadt.edu.kh
 <!--
